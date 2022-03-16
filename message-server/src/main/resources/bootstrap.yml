@@ -1,0 +1,14 @@
+spring:
+  main:
+    allow-bean-definition-overriding: true
+  application:
+    name: message  #  应用名称
+  cloud:
+    nacos:
+      config:
+        server-addr: 106.14.83.220:8848  # nacos服务地址
+        namespace: e49ee70e-4079-485b-ade6-ff3ddac76bae  # 命名空间
+        file-extension: yml  # 配置文件类型
+        refresh-enabled: true  # 开启配置自动刷新
+      discovery:
+        ip: 124.223.97.154
