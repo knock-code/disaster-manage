@@ -6,7 +6,7 @@
 > #### 消息中心
 ![图片](https://user-images.githubusercontent.com/62197687/159662004-37bac827-525a-4104-af1c-0f54b2101b22.png)
 > #### 求助中心
-![image](https://user-images.githubusercontent.com/62197687/158987803-808264f1-8bf7-46a6-a564-6cd30e8fc0f4.png)
+![图片](https://user-images.githubusercontent.com/62197687/159663287-301eb415-d41a-4823-97ad-9de95308f738.png)
 > #### CMS中心
 ![图片](https://user-images.githubusercontent.com/62197687/159662485-85b83b7f-67a5-45ad-b7c6-ee3cd1846f09.png)
 > #### 分析中心
